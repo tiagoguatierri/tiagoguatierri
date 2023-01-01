@@ -2,7 +2,7 @@
 
 Fullstack developer specialist in Nodejs/Typescript, Angular and Nestjs. 
 
-Currently studying Serverless architecture/Serverless framework, Edge Computing and Vue framework.
+Currently studying Serverless architecture/Serverless framework Edge Computing and React framework.
 
 Enthusiastic about new technologies, I'm always studying and learning something new. Learning fast, I communicate well and I know how to work in a team asynchronously and synchronously.
   
@@ -13,3 +13,7 @@ Enthusiastic about new technologies, I'm always studying and learning something 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagoguatierri&show_icons=true&locale=en&layout=compact" alt="tiagoguatierri" /></p>  
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagoguatierri&show_icons=true&locale=en" alt="tiagoguatierri" /></p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/tiago-guatierri-043b7a82/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://twitter.com/tiagoguatierri" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" ></a> <a href="https://www.tiktok.com/@tiagoguatierri" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" ></a> <a href="mailto:tiagovit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+</p>
