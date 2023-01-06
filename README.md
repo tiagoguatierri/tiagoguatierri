@@ -1,3 +1,5 @@
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tiagoguatierri.tiagoguatierri)
+
 ## Hi there, Tiago Guatierri here 👋
 
 Fullstack developer specialist in NodeJS/Typescript, Angular and Nestjs. 
